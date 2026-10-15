@@ -1,0 +1,6 @@
+{
+  "version": "0.2.18",
+  "platform": "darwin-arm64",
+  "python": "3.11.10",
+  "entrypoint": "tracker/main.py"
+}
