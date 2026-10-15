@@ -1,0 +1,12 @@
+{
+  "version": "0.2.18",
+  "platform": "darwin-arm64",
+  "python": "3.11.10",
+  "entrypoint": "tracker/main.py",
+  "provider": "CoreMLExecutionProvider",
+  "models": {
+    "insightface": "models/insightface/models/buffalo_l/det_10g.onnx (16 MB)",
+    "mediapipe": "models/face_landmarker.task (3.6 MB)",
+    "silero_vad": "models/silero_vad.onnx (2.2 MB)"
+  }
+}
