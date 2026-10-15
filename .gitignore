@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+face_clip.mp4
+me.jpg
+*.bak
